@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel McInally 👋
+### Hi there, I'm Daniel 👋
 
 🔭 I'm a seasoned **Full-Stack Software Engineer** and **Applied Mathematician** with a robust background in **cloud networking** and **software project management**. With a career that started in my teens and formal education in physics and applied mathematics, I've developed a deep understanding of technology and programming.
 
